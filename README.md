@@ -1,3 +1,6 @@
-# vhdl-number-guess-game-project
+# Project Report
+# Design and Implementation of a
+# “Read My Mind” Game
 
-This project employs a vhdl module to imitate a number guessing game on a Prometheus FPGA Board.
+Developed by Kerem Kaya and Gül Sena Altıntaş for Koç University's Elec 204 Digital Design Course, this project employs a vhdl module to imitate a number guessing game on a Prometheus FPGA Board.
+
