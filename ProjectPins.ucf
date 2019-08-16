@@ -1,0 +1,40 @@
+NET "MCLK" LOC = "P40";
+
+NET "Guess<0>" LOC = "P15";
+NET "Guess<1>" LOC = "P12";
+NET "Guess<2>" LOC = "P5";
+NET "Guess<3>" LOC = "P4";
+NET "Guess<4>" LOC = "P94";
+NET "Guess<5>" LOC = "P90";
+NET "Guess<6>" LOC = "P88";
+NET "Guess<7>" LOC = "P85";
+
+NET "rButton" LOC = "P32";
+NET "sButton" LOC = "P35";
+NET "gButton" LOC = "P34";
+NET "lower_button" LOC = "P36";
+NET "upper_button" LOC = "P33";
+
+NET "Leds<0>" LOC = "P16";
+NET "Leds<1>" LOC = "P13";
+NET "Leds<2>" LOC = "P6";
+NET "Leds<3>" LOC = "P3";
+NET "Leds<4>" LOC = "P93";
+NET "Leds<5>" LOC = "P89";
+NET "Leds<6>" LOC = "P86";
+
+NET "Anodes<0>"  LOC = "P50";
+NET "Anodes<1>"  LOC = "P49";
+NET "Anodes<2>"  LOC = "P52";
+NET "Anodes<3>"  LOC = "P56";
+NET "Anodes<4>"  LOC = "P59";
+NET "Anodes<5>"  LOC = "P57";
+NET "Anodes<6>"  LOC = "P60";
+NET "Anodes<7>"  LOC = "P61";
+NET "SevenSegment<0>"  LOC = "P64";
+NET "SevenSegment<1>"  LOC = "P98";
+NET "SevenSegment<2>"  LOC = "P73";
+NET "SevenSegment<3>"  LOC = "P72";
+NET "SevenSegment<4>"  LOC = "P65";
+NET "SevenSegment<5>"  LOC = "P62";
+NET "SevenSegment<6>"  LOC = "P71";
